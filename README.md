@@ -16,7 +16,7 @@ This project provides tailored weather updates, focusing on daily conditions lik
 
 - *Commute Optimization*: Provides real-time updates for commuters, helping them avoid traffic disruptions due to weather conditions.
 
-### Benefits
+## Benefits
 
 - *Enhanced Convenience*: Eliminates guesswork in planning activities, making daily tasks smoother.
   
